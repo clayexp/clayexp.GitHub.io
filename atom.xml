@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clayexp.github.io</id>
     <title>啊洪的小破绽</title>
-    <updated>2021-09-11T03:46:04.556Z</updated>
+    <updated>2021-09-11T03:55:04.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clayexp.github.io"/>
     <link rel="self" href="https://clayexp.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, 啊洪的小破绽</rights>
     <entry>
         <title type="html"><![CDATA[Typora使用教程]]></title>
-        <id>https://clayexp.github.io/post/typora-shi-yong-jiao-cheng/</id>
-        <link href="https://clayexp.github.io/post/typora-shi-yong-jiao-cheng/">
+        <id>https://clayexp.github.io/post/typora-use/</id>
+        <link href="https://clayexp.github.io/post/typora-use/">
         </link>
         <updated>2021-09-11T02:55:20.000Z</updated>
         <content type="html"><![CDATA[<p>Typora是一款轻便简洁的Markdown编辑器，支持即时渲染技术，这也是与其他Markdown编辑器最显著的区别。即时渲染使得你写Markdown就想是写Word文档一样流畅自如，不像其他编辑器的有编辑栏和显示栏。 优点:<br>
